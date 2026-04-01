@@ -1,7 +1,7 @@
 # ProjectExplanation
 
 
-## ⭐ DSA Interview Coach – STAR Explanation
+## ⭐ DSA Interview Coach 
 
 ### **1. Situation**
 
@@ -57,10 +57,10 @@ This helps users:
 It makes DSA preparation **more realistic and interactive**, which can significantly improve performance in real interviews.
 
 
+---
 
 
-
-## ⭐ Codeforces Tracker – STAR Explanation
+## ⭐ Codeforces Tracker 
 
 ### **1. Situation**
 
@@ -116,8 +116,10 @@ Key benefits include:
 This makes the platform not just a tracker but also a **consistency-support tool for competitive programmers.**
 
 
+---
 
-## ⭐ Tweetopia – STAR Explanation
+
+## ⭐ Tweetopia 
 
 ### **1. Situation**
 
@@ -181,8 +183,7 @@ It helped me understand the architecture behind modern social media platforms.
 
 
 
-## ⭐ MovieMate Recommender System – STAR Explanation
-
+## ⭐ MovieMate Recommender System 
 ### **1. Situation**
 
 With platforms like **Netflix**, users often struggle to decide what to watch due to the large amount of available content. I noticed that users need a system that can **recommend movies based on their interests rather than random suggestions.**
